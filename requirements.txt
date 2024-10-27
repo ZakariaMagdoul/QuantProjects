@@ -1,0 +1,12 @@
+scipy
+requests
+schedule
+datetime
+streamlit
+pandas
+pandas-ta
+numpy
+yfinance
+plotly
+scipy
+python-dateutil
